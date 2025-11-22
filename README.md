@@ -1,6 +1,6 @@
 This is the Sender Main website directory
 
-Contibuted to by, Jacob Millet, Reese Perry, Julia, Likitha
+Contibuted to by, Jacob Millet, Reese Perry, Julia Camposs, Likitha
 
 Index.html
 -opening page of website with sign up and log in options
